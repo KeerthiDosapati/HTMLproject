@@ -35,4 +35,4 @@ This project helps beginners learn:
 - Multi-page website structure  
 
 ## 👩‍💻 Created by
-Aishwarya  
+Keerthi  
